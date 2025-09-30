@@ -14,4 +14,8 @@ El objetivo es la implementación de un sistema en Prolog para la gestión de un
 * **Extensiones de VSCode:** Extensiones para el soporte del lenguaje Prolog (Las extensiones que usamos fueron: "Prolog" y "VSC-Prolog")
 * **Intérprete:** SWI-Prolog, preinstalado en el sistema operativo para la compilación y prueba del código.
 
+
 **Muchisimas gracias**
+
+LINK VIDEO EXPLICATIVO: https://youtu.be/WqeAjvwpccM
+
